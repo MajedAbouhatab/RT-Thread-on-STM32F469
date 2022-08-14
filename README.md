@@ -35,7 +35,7 @@ We replaced Disabled with Asynchronous in the Mode drop down menu. We then click
 
 ![](https://hackster.imgix.net/uploads/attachments/1481090/image_cDQQbvR1oC.png?auto=compress%2Cformat&w=1280&h=960&fit=max)
 
-We located Kconfig (couple of folders up) and duplicated UART3 text then replaced with UART6\. Now, it looks like this.
+We located Kconfig (one folder up) and duplicated UART3 text then replaced with UART6\. Now, it looks like this.
 
 ![](https://hackster.imgix.net/uploads/attachments/1481092/image_nFmpfJZm4Q.png?auto=compress%2Cformat&w=1280&h=960&fit=max)
 
