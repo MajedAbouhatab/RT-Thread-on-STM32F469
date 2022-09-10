@@ -2,20 +2,20 @@
 ![](https://hackster.imgix.net/uploads/attachments/1481209/ezgif_com-gif-maker_q5se8jLKAV.gif?auto=format%2Ccompress&gifq=35&w=900&h=675&fit=min&fm=mp4)
 ## Things used in this project
 ### Hardware components
-STM32F469 DISCOVERY
-Espressif ESP32 Development Board
-Speaker, Mini
+STM32F469 DISCOVERY  
+Espressif ESP32 Development Board  
+Speaker, Mini  
 ### Software apps and online services
-RT-Thread IoT OS
-STMicroelectronics STM32CubeMX
-Microsoft VS Code
-Engines of Our Ingenuity
-ezgif.com
-remove.bg
-LVGL
+RT-Thread IoT OS  
+STMicroelectronics STM32CubeMX  
+Microsoft VS Code  
+Engines of Our Ingenuity  
+ezgif.com  
+remove.bg  
+LVGL  
 ### Hand tools and fabrication machines
-Soldering iron (generic)
-Solder Wire, Lead Free
+Soldering iron (generic)  
+Solder Wire, Lead Free  
 ## Story
 ### Background
 Long before TED Talks became popular, there was a radio program that tells the story of how our culture is formed by human creativity. That radio program, [Engines of Our Ingenuity](https://www.uh.edu/engines/), has been featured in one of my previous projects, [If The Allegations Are Not Legit, You m. AWS. t EduKit](https://www.hackster.io/abouhatab/if-the-allegations-are-not-legit-you-m-aws-t-edukit-326d38). We wanted to make a device that plays episodes with more screen space to allow for user control and for that we used STM32F469 DISCOVERY board. We didn't just want random and forward/backward navigation, we wanted to be able to jump to specific episodes and see the title and description. Also, in this project we did not use AWS so we had to figure out how to make ESP32 load large pages without crashing. Lastly, the boards had to communicate over UART.
